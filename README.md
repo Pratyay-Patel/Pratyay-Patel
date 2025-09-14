@@ -3,6 +3,14 @@
 <h1 align="center">Hi 👋, I'm Pratyay Patel</h1>
 <h3 align="center">A passionate web developer and AIML enthusiast from India.</h3>
 
+<div align="center">
+  <img height="120" src="https://media.tenor.com/8HaTOA3o0OoAAAAj/pixel-cat.gif"  />
+</div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pratyay-Patel&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=false&border_color=99cc00&border_radius=12&custom_title=Pratyay's%20GitHub%20Stats:" height="158" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pratyay-Patel&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=false&border_color=99cc00&border_radius=9&custom_title=Most%20Used%20Languages:" height="160" alt="languages graph"  />
+</div>
+
 <p align="left">
 </p>
 
